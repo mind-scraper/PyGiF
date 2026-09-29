@@ -1,0 +1,332 @@
+Displacement directory excist vib0.
+Displacement files inside the directory will be used.
+Please make sure this is intended!
+
+Displacement directory excist vib1.
+Displacement files inside the directory will be used.
+Please make sure this is intended!
+
+
+###Step : 0###
+Displacement in cartesian coordinate.
+Atomic positions, energy, and forces will be written inside vib0.
+Skipping vib0/0x-.xyz
+Skipping vib0/0x+.xyz
+Skipping vib0/0y-.xyz
+Skipping vib0/0y+.xyz
+Skipping vib0/0z+.xyz
+Skipping vib0/0z-.xyz
+Skipping vib0/1x-.xyz
+Skipping vib0/1x+.xyz
+Skipping vib0/1y+.xyz
+Skipping vib0/1y-.xyz
+Skipping vib0/1z+.xyz
+Skipping vib0/1z-.xyz
+Skipping vib0/2y+.xyz
+Skipping vib0/2x+.xyz
+Skipping vib0/2z+.xyz
+Skipping vib0/2x-.xyz
+Skipping vib0/2y-.xyz
+Skipping vib0/2z-.xyz
+Skipping vib0/3x+.xyz
+Skipping vib0/3x-.xyz
+Skipping vib0/3y+.xyz
+Skipping vib0/3y-.xyz
+Skipping vib0/3z-.xyz
+Skipping vib0/3z+.xyz
+Skipping vib0/4x-.xyz
+Skipping vib0/4x+.xyz
+Skipping vib0/4y-.xyz
+Skipping vib0/4y+.xyz
+Skipping vib0/4z-.xyz
+Skipping vib0/5x+.xyz
+Skipping vib0/4z+.xyz
+Skipping vib0/5x-.xyz
+Skipping vib0/5y+.xyz
+Skipping vib0/5z+.xyz
+Skipping vib0/5y-.xyz
+Skipping vib0/5z-.xyz
+Making sure the structure files are sorted correctly
+['0x+.xyz', '0x-.xyz', '0y+.xyz', '0y-.xyz', '0z+.xyz', '0z-.xyz', '1x+.xyz', '1x-.xyz', '1y+.xyz', '1y-.xyz', '1z+.xyz', '1z-.xyz', '2x+.xyz', '2x-.xyz', '2y+.xyz', '2y-.xyz', '2z+.xyz', '2z-.xyz', '3x+.xyz', '3x-.xyz', '3y+.xyz', '3y-.xyz', '3z+.xyz', '3z-.xyz', '4x+.xyz', '4x-.xyz', '4y+.xyz', '4y-.xyz', '4z+.xyz', '4z-.xyz', '5x+.xyz', '5x-.xyz', '5y+.xyz', '5y-.xyz', '5z+.xyz', '5z-.xyz']
+Running vibrational analysis with gif . . .
+             =========             
+              SUMMARY              
+             =========             
+
+ MODE  WR       : NU(meV)  NU(cm-1)
+    1 -0.84D-06 :    0.58      4.69
+    2 -0.61D-07 :    0.16      1.26
+    3  0.30D-07 :    0.11      0.89
+    4  0.17D-03 :    8.34     67.26
+    5  0.21D-01 :   91.27    736.10
+    6  0.43D-01 :  132.12   1065.65
+    7  0.44D-01 :  132.71   1070.38
+    8  0.50D-01 :  141.89   1144.38
+    9  0.54D-01 :  147.22   1187.43
+   10  0.54D-01 :  147.96   1193.35
+   11  0.66D-01 :  163.00   1314.65
+   12  0.72D-01 :  170.88   1378.23
+   13  0.83D-01 :  182.79   1474.29
+   14  0.86D-01 :  186.31   1502.71
+   15  0.33D+00 :  366.88   2959.05
+   16  0.34D+00 :  369.71   2981.91
+   17  0.34D+00 :  369.94   2983.75
+   18  0.35D+00 :  376.23   3034.49
+Zero point energy = 1493.680 meV
+
+Full output of gif is written to gif_0.out.
+Suggested displacement is written to vib_0.data
+
+Working on mode 1/18
+Frequency = 4.69 cm^-1 (0.58 THz)
+Maximum displacement at 300.0 K = 6.6677 Å
+Animation written to anim0/mode_001.xyz
+
+Working on mode 2/18
+Frequency = 1.26 cm^-1 (0.16 THz)
+Maximum displacement at 300.0 K = 12.8641 Å
+Animation written to anim0/mode_002.xyz
+
+Working on mode 3/18
+Mode 3: 0.89 cm^-1 (zero/imaginary mode). Skipping.
+
+Working on mode 4/18
+Frequency = 67.26 cm^-1 (8.34 THz)
+Maximum displacement at 300.0 K = 1.7607 Å
+Animation written to anim0/mode_004.xyz
+
+Working on mode 5/18
+Frequency = 736.10 cm^-1 (91.27 THz)
+Maximum displacement at 300.0 K = 0.5322 Å
+Animation written to anim0/mode_005.xyz
+
+Working on mode 6/18
+Frequency = 1065.65 cm^-1 (132.12 THz)
+Maximum displacement at 300.0 K = 0.4423 Å
+Animation written to anim0/mode_006.xyz
+
+Working on mode 7/18
+Frequency = 1070.38 cm^-1 (132.71 THz)
+Maximum displacement at 300.0 K = 0.4414 Å
+Animation written to anim0/mode_007.xyz
+
+Working on mode 8/18
+Frequency = 1144.38 cm^-1 (141.89 THz)
+Maximum displacement at 300.0 K = 0.4269 Å
+Animation written to anim0/mode_008.xyz
+
+Working on mode 9/18
+Frequency = 1187.43 cm^-1 (147.22 THz)
+Maximum displacement at 300.0 K = 0.4190 Å
+Animation written to anim0/mode_009.xyz
+
+Working on mode 10/18
+Frequency = 1193.35 cm^-1 (147.96 THz)
+Maximum displacement at 300.0 K = 0.4180 Å
+Animation written to anim0/mode_010.xyz
+
+Working on mode 11/18
+Frequency = 1314.65 cm^-1 (163.00 THz)
+Maximum displacement at 300.0 K = 0.3983 Å
+Animation written to anim0/mode_011.xyz
+
+Working on mode 12/18
+Frequency = 1378.23 cm^-1 (170.88 THz)
+Maximum displacement at 300.0 K = 0.3890 Å
+Animation written to anim0/mode_012.xyz
+
+Working on mode 13/18
+Frequency = 1474.29 cm^-1 (182.79 THz)
+Maximum displacement at 300.0 K = 0.3761 Å
+Animation written to anim0/mode_013.xyz
+
+Working on mode 14/18
+Frequency = 1502.71 cm^-1 (186.31 THz)
+Maximum displacement at 300.0 K = 0.3725 Å
+Animation written to anim0/mode_014.xyz
+
+Working on mode 15/18
+Frequency = 2959.05 cm^-1 (366.88 THz)
+Maximum displacement at 300.0 K = 0.2655 Å
+Animation written to anim0/mode_015.xyz
+
+Working on mode 16/18
+Frequency = 2981.91 cm^-1 (369.71 THz)
+Maximum displacement at 300.0 K = 0.2644 Å
+Animation written to anim0/mode_016.xyz
+
+Working on mode 17/18
+Frequency = 2983.75 cm^-1 (369.94 THz)
+Maximum displacement at 300.0 K = 0.2644 Å
+Animation written to anim0/mode_017.xyz
+
+Working on mode 18/18
+Frequency = 3034.49 cm^-1 (376.23 THz)
+Maximum displacement at 300.0 K = 0.2621 Å
+Animation written to anim0/mode_018.xyz
+
+All normal-mode animations written to 'anim0/'.
+
+###Step : 1###
+Displacement in normal coordinate.
+Atomic positions, energy, and forces will be written inside vib1.
+Mode 1: ASR enabled -> energy and forces set to zero
+Mode 2: ASR enabled -> energy and forces set to zero
+Mode 3: ASR enabled -> energy and forces set to zero
+Skipping vib1/disp1_min.xyz
+Skipping vib1/disp0_min.xyz
+Skipping vib1/disp2_min.xyz
+Skipping vib1/disp3_min.xyz
+Skipping vib1/disp4_min.xyz
+Skipping vib1/disp5_min.xyz
+Skipping vib1/disp6_min.xyz
+Skipping vib1/disp7_min.xyz
+Skipping vib1/disp8_min.xyz
+Skipping vib1/disp1_plus.xyz
+Skipping vib1/disp0_plus.xyz
+Skipping vib1/disp3_plus.xyz
+Skipping vib1/disp2_plus.xyz
+Skipping vib1/disp4_plus.xyz
+Skipping vib1/disp5_plus.xyz
+Skipping vib1/disp6_plus.xyz
+Skipping vib1/disp7_plus.xyz
+Skipping vib1/disp8_plus.xyz
+Skipping vib1/disp9_min.xyz
+Skipping vib1/disp10_min.xyz
+Skipping vib1/disp11_min.xyz
+Skipping vib1/disp12_min.xyz
+Skipping vib1/disp13_min.xyz
+Skipping vib1/disp9_plus.xyz
+Skipping vib1/disp10_plus.xyz
+Skipping vib1/disp11_plus.xyz
+Skipping vib1/disp12_plus.xyz
+Calculated vib1/disp17_min.xyz
+Calculated vib1/disp16_min.xyz
+Calculated vib1/disp13_plus.xyz
+Calculated vib1/disp14_min.xyz
+Calculated vib1/disp15_min.xyz
+Calculated vib1/disp16_plus.xyz
+Calculated vib1/disp14_plus.xyz
+Calculated vib1/disp17_plus.xyz
+Calculated vib1/disp15_plus.xyz
+Finished 18 vibrational modes.
+Making sure the structure files are sorted correctly
+['disp0_plus.xyz', 'disp0_min.xyz', 'disp1_plus.xyz', 'disp1_min.xyz', 'disp2_plus.xyz', 'disp2_min.xyz', 'disp3_plus.xyz', 'disp3_min.xyz', 'disp4_plus.xyz', 'disp4_min.xyz', 'disp5_plus.xyz', 'disp5_min.xyz', 'disp6_plus.xyz', 'disp6_min.xyz', 'disp7_plus.xyz', 'disp7_min.xyz', 'disp8_plus.xyz', 'disp8_min.xyz', 'disp9_plus.xyz', 'disp9_min.xyz', 'disp10_plus.xyz', 'disp10_min.xyz', 'disp11_plus.xyz', 'disp11_min.xyz', 'disp12_plus.xyz', 'disp12_min.xyz', 'disp13_plus.xyz', 'disp13_min.xyz', 'disp14_plus.xyz', 'disp14_min.xyz', 'disp15_plus.xyz', 'disp15_min.xyz', 'disp16_plus.xyz', 'disp16_min.xyz', 'disp17_plus.xyz', 'disp17_min.xyz']
+Running vibrational analysis with gif . . .
+             =========             
+              SUMMARY              
+             =========             
+
+ MODE  WR       : NU(meV)  NU(cm-1)
+    1 -0.19D-05 :    0.88      7.10
+    2 -0.62D-07 :    0.16      1.28
+    3  0.10D-09 :    0.01      0.05
+    4  0.18D-02 :   27.30    220.17
+    5  0.22D-01 :   93.29    752.44
+    6  0.43D-01 :  132.28   1066.89
+    7  0.44D-01 :  132.72   1070.44
+    8  0.50D-01 :  142.10   1146.13
+    9  0.54D-01 :  147.26   1187.70
+   10  0.54D-01 :  148.01   1193.80
+   11  0.66D-01 :  162.99   1314.58
+   12  0.72D-01 :  170.86   1378.07
+   13  0.83D-01 :  182.77   1474.13
+   14  0.86D-01 :  186.29   1502.52
+   15  0.34D+00 :  367.62   2965.07
+   16  0.34D+00 :  369.87   2983.16
+   17  0.34D+00 :  371.37   2995.25
+   18  0.35D+00 :  376.42   3036.04
+Zero point energy = 1505.580 meV
+
+Full output of gif is written to gif_1.out.
+Suggested displacement is written to vib_1.data
+
+Working on mode 1/18
+Frequency = 7.10 cm^-1 (0.88 THz)
+Maximum displacement at 300.0 K = 5.4192 Å
+Animation written to anim1/mode_001.xyz
+
+Working on mode 2/18
+Frequency = 1.28 cm^-1 (0.16 THz)
+Maximum displacement at 300.0 K = 12.7632 Å
+Animation written to anim1/mode_002.xyz
+
+Working on mode 3/18
+Mode 3: 0.05 cm^-1 (zero/imaginary mode). Skipping.
+
+Working on mode 4/18
+Frequency = 220.17 cm^-1 (27.30 THz)
+Maximum displacement at 300.0 K = 0.9732 Å
+Animation written to anim1/mode_004.xyz
+
+Working on mode 5/18
+Frequency = 752.44 cm^-1 (93.29 THz)
+Maximum displacement at 300.0 K = 0.5264 Å
+Animation written to anim1/mode_005.xyz
+
+Working on mode 6/18
+Frequency = 1066.89 cm^-1 (132.28 THz)
+Maximum displacement at 300.0 K = 0.4421 Å
+Animation written to anim1/mode_006.xyz
+
+Working on mode 7/18
+Frequency = 1070.44 cm^-1 (132.72 THz)
+Maximum displacement at 300.0 K = 0.4413 Å
+Animation written to anim1/mode_007.xyz
+
+Working on mode 8/18
+Frequency = 1146.13 cm^-1 (142.10 THz)
+Maximum displacement at 300.0 K = 0.4265 Å
+Animation written to anim1/mode_008.xyz
+
+Working on mode 9/18
+Frequency = 1187.70 cm^-1 (147.26 THz)
+Maximum displacement at 300.0 K = 0.4190 Å
+Animation written to anim1/mode_009.xyz
+
+Working on mode 10/18
+Frequency = 1193.80 cm^-1 (148.01 THz)
+Maximum displacement at 300.0 K = 0.4179 Å
+Animation written to anim1/mode_010.xyz
+
+Working on mode 11/18
+Frequency = 1314.58 cm^-1 (162.99 THz)
+Maximum displacement at 300.0 K = 0.3983 Å
+Animation written to anim1/mode_011.xyz
+
+Working on mode 12/18
+Frequency = 1378.07 cm^-1 (170.86 THz)
+Maximum displacement at 300.0 K = 0.3890 Å
+Animation written to anim1/mode_012.xyz
+
+Working on mode 13/18
+Frequency = 1474.13 cm^-1 (182.77 THz)
+Maximum displacement at 300.0 K = 0.3761 Å
+Animation written to anim1/mode_013.xyz
+
+Working on mode 14/18
+Frequency = 1502.52 cm^-1 (186.29 THz)
+Maximum displacement at 300.0 K = 0.3725 Å
+Animation written to anim1/mode_014.xyz
+
+Working on mode 15/18
+Frequency = 2965.07 cm^-1 (367.62 THz)
+Maximum displacement at 300.0 K = 0.2652 Å
+Animation written to anim1/mode_015.xyz
+
+Working on mode 16/18
+Frequency = 2983.16 cm^-1 (369.87 THz)
+Maximum displacement at 300.0 K = 0.2644 Å
+Animation written to anim1/mode_016.xyz
+
+Working on mode 17/18
+Frequency = 2995.25 cm^-1 (371.37 THz)
+Maximum displacement at 300.0 K = 0.2638 Å
+Animation written to anim1/mode_017.xyz
+
+Working on mode 18/18
+Frequency = 3036.04 cm^-1 (376.42 THz)
+Maximum displacement at 300.0 K = 0.2621 Å
+Animation written to anim1/mode_018.xyz
+
+All normal-mode animations written to 'anim1/'.
