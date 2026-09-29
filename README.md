@@ -3,6 +3,8 @@ Simple ASE interface for GiF program.
 
 GiF is a vibrational analysis program that calculates the vibrational frequencies of an atomic structure given a potential energy (and forces) calculator. 
 One advantage of using GiF is that the dynamical matrix can be refined repeatedly by explicitly calculating forces along normal coordinates, instead of only Cartesian coordinates. 
+On top of that, one can perform the force calculation on every displacement in parallel, given enough resources. 
+This is important since every vibrational calculation includes 6N forces calculations, where N is the number of atoms. 
 
 GiF is part of STATE program developed by Morikawa-Hamada Group. 
 Check STATE documentation at the following link
