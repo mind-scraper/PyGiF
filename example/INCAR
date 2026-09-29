@@ -1,0 +1,15 @@
+# general
+ISMEAR = 0
+SIGMA = 0.01
+NELM = 333 #Maximum scf iteration
+ENCUT = 750 #Cutoff energy in eV
+EDIFF = 1E-6 #SCF convergence, default is 1E-4
+# general
+
+# R2SCAN
+METAGGA = R2SCAN
+LASPH = .TRUE.
+# R2SCAN
+
+KPAR = 2
+NCORE = 2
